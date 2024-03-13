@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics, Harvard University, 2024 (expected)
+  * Dissertation Advisor: Sebastien Haneuse
+  * Dissertation Committee: Kyu Ha Lee, Briana Stephenson, Stephanie Lee
+* A.M. in Biostatistics, Harvard University, 2021
+* M.S. in Biostatistics, Northwestern University, 2019
+  * Thesis Advisor: Lihui Zhao  
+* B.A. in Chemistry, Wellesley College, 2014
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Harvard University / Harvard T.H. Chan School of Public Health
+  * Teaching Fellow (2020 - 2024)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Northwestern University 
+  * Clinical Research Project Manager (2017 - 2019)
+  
+* Ann & Robert H. Lurie Children's Hospital of Chicago
+  * Clinical Research Coordinator (2015 - 2017)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* SQL
+* HTML/CSS
+* REDCap
 
 Publications
 ======
@@ -59,6 +56,22 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Harvard University Biostatistics PhD Student Committee
+  * Co-President (2022-)  
+* Harvard Graduate School of Arts and Sciences Student Council
+  * Program Representative (2022-)  
+* Harvard Graduate School of Arts and Sciences Student Council Conference Grants Committee
+  * Committee Member (2022-)  
+* Harvard Graduate School of Arts and Sciences Student Council Student Group Funding Committee
+  * Committee Member (2022-)  
+* Harvard University Florence Nightingale Day Planning Commmitee
+  * Committee Member (2022)  
+* Harvard Graduate Women in Science and Engineering at Harvard GSAS
+  * Co-Chair (2020-2021) and Chair (2021-2022)
+* Ann & Robert H. Lurie Children's Hospital of Chicago Clinical Research Professionals Exemplar Award
+  * Chair (2016-2017)  
+* Ann & Robert H. Lurie Children's Hospital of Chicago Clinical Research Professionals Education & Mentoring Committee
+  * Secretary (2016-2017)
+  * 
