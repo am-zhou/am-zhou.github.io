@@ -74,4 +74,3 @@ Service and Leadership
   * Chair (2016-2017)  
 * Ann & Robert H. Lurie Children's Hospital of Chicago Clinical Research Professionals Education & Mentoring Committee
   * Secretary (2016-2017)
-  * 
