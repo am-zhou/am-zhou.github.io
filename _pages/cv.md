@@ -43,6 +43,10 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  {% if site.author.googlescholar %}
+  You can also find my articles on my Google Scholar profile.
+  {% endif %}
   
 Talks
 ======
@@ -59,16 +63,18 @@ Teaching
 Service and Leadership
 ======
 * Harvard University Biostatistics PhD Student Committee
-  * Co-President (2022-)  
-* Harvard Graduate School of Arts and Sciences Student Council
-  * Program Representative (2022-)  
-* Harvard Graduate School of Arts and Sciences Student Council Conference Grants Committee
-  * Committee Member (2022-)  
-* Harvard Graduate School of Arts and Sciences Student Council Student Group Funding Committee
-  * Committee Member (2022-)  
+  * Co-President (2022-2024)  
+* Harvard Griffin Graduate School of Arts and Sciences Student Council
+  * Program Representative (2022-2024)  
+* Harvard Griffin Graduate School of Arts and Sciences Student Council Conference Grants Committee
+  * Committee Member (2022-2024)  
+* Harvard Griffin Graduate School of Arts and Sciences Student Council Student Group Funding Committee
+  * Committee Member (2022-2024)
+* Data Adventure Day Planning Committee
+  * Committee Member (2023)  
 * Harvard University Florence Nightingale Day Planning Commmitee
   * Committee Member (2022)  
-* Harvard Graduate Women in Science and Engineering at Harvard GSAS
+* Harvard Graduate Women in Science and Engineering at Harvard Griffin GSAS
   * Co-Chair (2020-2021) and Chair (2021-2022)
 * Ann & Robert H. Lurie Children's Hospital of Chicago Clinical Research Professionals Exemplar Award
   * Chair (2016-2017)  
