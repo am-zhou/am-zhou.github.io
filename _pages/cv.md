@@ -40,12 +40,12 @@ Skills
 
 Publications
 ======
-  {% if site.author.googlescholar %}
-    You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
-  {% endif %}
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% if site.author.googlescholar %}
+* You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+{% endif %}
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
   
 Talks
 ======
