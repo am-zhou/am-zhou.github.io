@@ -70,7 +70,9 @@ Service and Leadership
 * Harvard Griffin Graduate School of Arts and Sciences Student Council Student Group Funding Committee
   * Committee Member (2022-2024)
 * Data Adventure Day Planning Committee
-  * Committee Member (2023)  
+  * Committee Member (2023)
+* Biostatistics Student Consulting Center
+  * Consultant (2021-2022) and President (2022-2023)  
 * Harvard University Florence Nightingale Day Planning Commmitee
   * Committee Member (2022)  
 * Harvard Graduate Women in Science and Engineering at Harvard Griffin GSAS
